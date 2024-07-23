@@ -6,6 +6,7 @@
 
 <script>
 import data from "@/data.json";
+//new branch
 
 export default {
   name: "ForceDirectedGraph",
